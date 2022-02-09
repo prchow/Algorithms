@@ -16,6 +16,9 @@ Approach: The idea is to use a square Matrix of size NxN to create Adjacency Mat
     0 1 0 0 0
     0 0 0 0 1
     1 0 0 1 0
+    
+ Time Complexity: O(n^2)
+ Space Complexity: O(n^2)
 
 */
 
@@ -59,3 +62,6 @@ int main()
 
     return 0;
 }
+
+
+
