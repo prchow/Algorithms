@@ -1,7 +1,7 @@
-/*
-    Recursion: Recursion is a process in which a function calls itself
+/*  Recursion: Recursion is a process in which a function calls itself
     directly or indirectly.
-
+    Explain: https://www.youtube.com/watch?v=kepBmgvWNDw
+    
     Example:
            int fun()
            {
@@ -10,7 +10,6 @@
            }
 
     Output: 3
-
 */
 
 #include<stdio.h>
