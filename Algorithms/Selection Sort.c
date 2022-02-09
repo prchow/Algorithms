@@ -1,4 +1,9 @@
-// Selection Sort Algorithms.
+/* 
+  Program : Selection Sort Algorithms.
+    
+  Time Complexity: O(n^2)
+  Space Complexity: O(n)
+*/
 
 #include<stdio.h>
 int main()
