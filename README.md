@@ -1,13 +1,17 @@
 # Data_Structure-Alogrithms
 
-* Algorithms
-* Algorithms Academic
-* Data Structure
+- Algorithms
+- Algorithms Academic
+- Data Structure
 
-Sorting : 
+Algorithms:
+
 * Selection sort
 * Bubble sort
 * Insertion sort
+* Adjacency Matrix of a given graph
+* Maximum Sum Subarray(MSS) DAC Approach
+
 
 Links:
 * Algorithms - Farhan Hossan (https://www.youtube.com/playlist?list=PLgrAmbRAezuhDI7LqoRiDlS2eimB7zXBf)
