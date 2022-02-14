@@ -4,8 +4,8 @@
 - Algorithms Academic
 - Data Structure
 
-<u> Algorithms: </u>
-<ins>text</ins>
+<ins> Algorithms: </ins>
+
 * Selection sort
 * Bubble sort
 * Insertion sort
