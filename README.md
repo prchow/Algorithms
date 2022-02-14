@@ -5,7 +5,7 @@
 - Data Structure
 
 <u> Algorithms: </u>
-
+<ins>text</ins>
 * Selection sort
 * Bubble sort
 * Insertion sort
