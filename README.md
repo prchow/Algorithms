@@ -4,7 +4,7 @@
 - Algorithms Academic
 - Data Structure
 
-Algorithms:
+<u>Algorithms:</u>
 
 * Selection sort
 * Bubble sort
