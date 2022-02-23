@@ -6,11 +6,16 @@
 
 <ins> Algorithms: </ins>
 
-* Selection sort
-* Bubble sort
-* Insertion sort
+* Linear Search
+* Binary Search
+* Selection Sort
+* Bubble Sort
+* Insertion Sort
 * Adjacency Matrix of a given graph
 * Maximum Sum Subarray(MSS) DAC Approach
+* Merge Sort
+* Quick Sort
+* 
 
 
 Youtube Links:
