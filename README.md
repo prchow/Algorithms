@@ -18,7 +18,7 @@
 * 
 
 
-🪂** <ins>Youtube Links:</ins>**
+🪂 **<ins>Youtube Links:</ins>**
 * Algorithms - Farhan Hossan (https://www.youtube.com/playlist?list=PLgrAmbRAezuhDI7LqoRiDlS2eimB7zXBf)
 * Algorithms - https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
 
