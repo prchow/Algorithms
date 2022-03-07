@@ -4,6 +4,8 @@
 - Algorithms Academic
 - Data Structure
 
+I implement all algorithm in C Programming Language. 
+
 🚀 **<ins> Algorithms: </ins>**
 
 * Linear Search
@@ -15,7 +17,6 @@
 * Maximum Sum Subarray(MSS) DAC Approach
 * Merge Sort
 * Quick Sort
-* 
 
 
 🪂 **<ins>Youtube Links:</ins>**
