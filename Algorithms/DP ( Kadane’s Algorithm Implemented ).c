@@ -1,3 +1,9 @@
+/*_____________________________________
+     Dynamic Programming (DP) 
+     Program: Kadane's Algorithm
+
+_______________________________________*/
+
 #include<stdio.h>
 int main()
 {
