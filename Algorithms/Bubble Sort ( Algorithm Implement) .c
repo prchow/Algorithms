@@ -1,7 +1,7 @@
-/*
+/*_________________________
      Program: BUBBLE SORT
      
-*/
+___________________________*/
 
 #include<stdio.h>
 int main()
