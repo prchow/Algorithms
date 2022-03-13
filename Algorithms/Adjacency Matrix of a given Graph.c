@@ -1,6 +1,8 @@
-/*
+/*_________________________________________________________________
 
-Program: Write a C program to form Adjacency Matrix of a given graph.
+Program: Adjacency Matrix (Graph)
+
+Program I have to do: C program to form Adjacency Matrix of a given graph.
 
 Hint:
 Approach: The idea is to use a square Matrix of size NxN to create Adjacency Matrix. Below are the steps:
@@ -19,8 +21,7 @@ Approach: The idea is to use a square Matrix of size NxN to create Adjacency Mat
     
  Time Complexity: O(n^2)
  Space Complexity: O(n^2)
-
-*/
+____________________________________________________________________*/
 
 #include<stdio.h>
 int main()
