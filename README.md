@@ -14,9 +14,10 @@ I implement all algorithm in C Programming Language.
 * Bubble Sort
 * Insertion Sort
 * Adjacency Matrix of a given graph
-* Maximum Sum Subarray(MSS) DAC Approach
+* Maximum Sum Subarray (MSS) DAC Approach
 * Merge Sort
 * Quick Sort
+* DP (Kadane’s Algorithm)
 
 
 🪂 **<ins>Youtube Links:</ins>**
