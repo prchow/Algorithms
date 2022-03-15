@@ -22,6 +22,7 @@ I implement all algorithm in C Programming Language.
 
 🪂 **<ins>Youtube Links:</ins>**
 * Algorithms - Farhan Hossan (https://www.youtube.com/playlist?list=PLgrAmbRAezuhDI7LqoRiDlS2eimB7zXBf)
+* Introduction to Greedy Algorithms. [Link to Google](https://www.youtube.com/watch?v=HzeK7g8cD0Y)
 * Algorithms - https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
 
 Website Links:
