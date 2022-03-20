@@ -19,7 +19,7 @@ I implement all algorithm in C Programming Language.
 * Quick Sort
 * DP (Kadane’s Algorithm)
 
-
+**My own study matarials:**
 🪂 **<ins>Youtube Links:</ins>**
 * Insertion, Selection, Bubble sort Algorithms - Farhan Hossan  [Link](https://www.youtube.com/playlist?list=PLgrAmbRAezuhDI7LqoRiDlS2eimB7zXBf)
 * Introduction to Greedy Algorithms.  [Link](https://www.youtube.com/watch?v=HzeK7g8cD0Y)
