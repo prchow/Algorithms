@@ -1,9 +1,5 @@
 # Data_Structure-Alogrithms
 
-- Algorithms
-- Algorithms Academic
-- Data Structure
-
 🧩 I implement all algorithm in C Programming Language. 
 
 🚀 **<ins> Algorithms: </ins>**
