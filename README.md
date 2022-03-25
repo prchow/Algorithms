@@ -19,6 +19,11 @@
 * Quick Sort
 * DP (Kadane’s Algorithm)
 
+* Prim's Algorithm  [LInk](https://www.youtube.com/watch?v=4ZlRH0eK-qQ)
+* Kruskal's Algorithm
+* Dijkstra Algorithm
+* 
+
 📌📌 **My own study matarials:**
 
 🪂 **<ins>Youtube Links:</ins>**
