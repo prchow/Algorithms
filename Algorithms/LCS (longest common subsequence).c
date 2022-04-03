@@ -1,3 +1,14 @@
+/*_______________________________________________
+    Program: LCS (longest common subsequence)
+    
+Output: 
+    S1 : ACADB
+    S2 : CBDA
+    LCS: CB
+    Length: 2
+
+________________________________________________*/
+
 #include <stdio.h>
 #include <string.h>
 
