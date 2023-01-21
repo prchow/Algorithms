@@ -1,4 +1,4 @@
-# Data_Structure-Alogrithms
+# Alogrithms
 
 🧩 I implement all algorithm in C Programming Language. 
 
